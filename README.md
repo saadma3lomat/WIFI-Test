@@ -11,6 +11,6 @@
 
 ### Install Metasploit
 1. Just download installer script `git clone https://github.com/saadma3lomat/Termux-MetaSploit.git`
-2. use `chmod +x bash saad-metasploit.sh`
+2. use `chmod +x saad-metasploit.sh`
 3. Now run `bash saad-metasploit.sh`
 
